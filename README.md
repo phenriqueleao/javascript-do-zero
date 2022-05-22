@@ -18,4 +18,5 @@ Também pode ser utilizado por quem gostaria de aprender a linguagem em si.
 * Autor: Pedro Leão
 * Materiais de referência:
   * [Python Zero](https://github.com/leobezerra/python-zero)
+  * [W3Schools](https://www.w3schools.com/)
   * [The Modern Javascript Bootcamp Course (2022)](https://www.udemy.com/course/javascript-beginners-complete-tutorial/)
