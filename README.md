@@ -5,7 +5,7 @@ Também pode ser utilizado por quem gostaria de aprender a linguagem em si.
 
 ---
 
-1. Introdução
+1. [Introdução](/content/1-Intro.md)
 2. Variáveis e expressões aritméticas
 3. Em construção...
 
